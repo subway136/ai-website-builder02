@@ -53,7 +53,7 @@ export default function Contact() {
               </div>
               <div className="space-y-2">
                 <label className="text-sm font-medium">Work Email</label>
-                <input type="email" className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 outline-none focus:border-primary" placeholder="john@acme.com" />
+                <input type="email" className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 outline-none focus:border-primary" placeholder="aiagencybuilder@gmail.com" />
               </div>
               <div className="space-y-2">
                 <label className="text-sm font-medium">What can we help with?</label>
