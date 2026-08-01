@@ -1,4 +1,4 @@
-importimport { Mail, Phone, MessageCircle, Calendar } from "lucide-react";
+ { Mail, Phone, MessageCircle, Calendar } from "lucide-react";
 
 export default function Contact() {
   return (
