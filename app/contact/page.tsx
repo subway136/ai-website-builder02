@@ -18,8 +18,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-white/40">Email Us</p>
-                  <p className="text-lg font-bold">hello@aura-intelligence.ai</p>
-                </div>
+                  <p className="text-lg font-bold">aiagencybuilder@gmail.com`
+
               </div>
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-xl glass-panel flex items-center justify-center text-primary">
@@ -27,8 +27,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-white/40">Call Us</p>
-                  <p className="text-lg font-bold">+1 (555) 012-3456</p>
-                </div>
+                  <p className="text-lg font-bold">+447436763956
               </div>
             </div>
 
