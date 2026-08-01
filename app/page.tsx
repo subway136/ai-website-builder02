@@ -36,6 +36,6 @@ export default function Home() {
         </div>
       </section>
     </div>
-<AIBots />
   );
 }
+<AIBots />
